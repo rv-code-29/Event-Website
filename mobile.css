@@ -1,0 +1,241 @@
+@media(max-width: 720px) {
+    
+    .navbar{
+        display: none;
+    }
+
+    .banner{
+        height: 100%;
+        padding: 2rem;
+    }
+
+    .banner .container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .banner_esq{
+        margin: 0;
+    }
+
+    .banner_dir{
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .time{
+        margin-top: 2rem;
+    }
+
+    .program_esq{
+        display: none;
+    }
+
+    .program_dir{
+        padding: 2rem;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    #program .container{
+        margin: 0;
+        padding: 0;
+    }
+
+    .title h3{
+        font-size: 2rem;
+    }
+
+    .fa-moon{
+        margin-right: 10px;
+        padding: 0;
+    }
+
+    .content{
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .hours p{
+        padding: 4rem 0;
+    }
+
+    .copy p{
+        padding: 1rem;
+    }
+
+    #where .container{
+        margin: 0;
+    }
+
+    #where .container h1{
+        margin-left: 2rem;
+        font-size: 3rem
+    }
+
+    #partners{
+        padding: 1rem;
+    }
+
+    #partners h1{
+        font-size: 3rem;
+    }
+
+    .stars{
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .star{
+        margin: 2rem;
+    }
+
+    #newsletter{
+        height: 100%;
+    }
+
+    .newsletter_dir{
+        display: none;
+    }
+
+    .newsletter_esq{
+        width: 100%;
+    }
+
+    .newsletter_esq .container{
+        padding: 0;
+    }
+
+    .newsletter_esq .container input{
+        width: 100%;
+    }
+}
+
+
+@media(max-width: 900px) {
+    
+    .navbar{
+        display: none;
+    }
+
+    .banner{
+        height: 100%;
+        padding: 2rem;
+    }
+
+    .banner .container{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+
+    .banner_esq{
+        margin: 0;
+    }
+
+    .banner_dir{
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .time{
+        margin-top: 2rem;
+    }
+
+    .program_dir{
+        padding: 2rem;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    #program .container{
+        margin: 0;
+        padding: 0;
+    }
+
+    .title h3{
+        font-size: 2rem;
+    }
+
+    .fa-moon{
+        margin-right: 10px;
+        padding: 0;
+    }
+
+    .content{
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .hours p{
+        padding: 4rem 0;
+    }
+
+    .copy p{
+        padding: 2.3rem;
+    }
+
+    #where .container{
+        margin: 0;
+    }
+
+    #where .container h1{
+        margin-left: 2rem;
+        font-size: 3rem
+    }
+
+    #partners{
+        padding: 1rem;
+    }
+
+    #partners h1{
+        font-size: 3rem;
+    }
+
+    .stars{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 2rem;
+    }
+
+    .star a{
+        margin: 2rem;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+
+    }
+
+
+    #newsletter{
+        height: 100%;
+        
+    }
+
+    .newsletter_dir{
+        display: none;
+    }
+
+    .newsletter_esq{
+        width: 100%;
+    }
+
+    .newsletter_esq .container{
+        padding: 0;
+    }
+
+    .newsletter_esq .container input{
+        width: 100%;
+    }
+}
